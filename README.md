@@ -1,24 +1,3 @@
-# vue-ts-debugging-test
+Simple test repo to showcase debugging issue of an almost "bare bones" Vue TS app created with the CLI.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Used as a reference in [this GitHub ticket](https://github.com/vuejs/vue-cli/issues/6742).
